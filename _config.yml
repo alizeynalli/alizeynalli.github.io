@@ -51,6 +51,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-comments: true
+
 disqus:
     shortname: alizeynalli
