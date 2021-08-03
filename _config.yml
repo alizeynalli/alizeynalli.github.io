@@ -51,6 +51,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-environment: production
-disqus:
-    shortname: alizeynalli
+
